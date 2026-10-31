@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31T16:48:18.638985+00:00",
+  "updated_at": "2026-10-31T20:58:10.755917+00:00",
   "source_total": 165,
   "included": 165,
   "removed_this_run": 0,
   "recovered": 0,
   "new": 0,
-  "working_now": 147,
-  "failing_now": 18
+  "working_now": 146,
+  "failing_now": 19
 }
