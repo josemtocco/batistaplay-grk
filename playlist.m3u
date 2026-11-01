@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist gerada automaticamente a partir de batistaplay.net
-# Atualizado: 2026-11-01 04:21:50 UTC
+# Atualizado: 2026-11-01 12:40:27 UTC
 # Otimizada para SS IPTV - use tamanho de botões 'Médio' no app
 
 #EXTINF:-1 tvg-id="bp9" tvg-name="Rede UTV Brasil" tvg-logo="https://i.postimg.cc/cHDQddGC/rede-utvbrasil.png" group-title="TV Aberta",Rede UTV Brasil
@@ -9,8 +9,6 @@ https://utvitv.acessaradios.com.br/utvitv/utvitv.stream/chunklist_w1641872797.m3
 https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1970019486.m3u8
 #EXTINF:-1 tvg-id="bp30" tvg-name="TV Record" tvg-logo="https://i.postimg.cc/PfKLvRv5/record-tv.png" group-title="TV Aberta",TV Record
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="bp32" tvg-name="TV Cultura" tvg-logo="https://i.postimg.cc/g2pVCyLn/tv-cultura.jpg" group-title="TV Aberta",TV Cultura
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2010912641.m3u8
 #EXTINF:-1 tvg-id="bp41" tvg-name="Band" tvg-logo="https://i.postimg.cc/Gh8y0j93/tv-bandeirantes.jpg" group-title="TV Aberta",Band
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
 #EXTINF:-1 tvg-id="bp42" tvg-name="Gazeta" tvg-logo="https://i.postimg.cc/tTf06J3D/tvgazeta-logo.jpg" group-title="TV Aberta",Gazeta
