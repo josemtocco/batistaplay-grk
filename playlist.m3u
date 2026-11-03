@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist gerada automaticamente a partir de batistaplay.net
-# Atualizado: 2026-11-02 14:44:29 UTC
+# Atualizado: 2026-11-03 00:29:40 UTC
 # Otimizada para SS IPTV - use tamanho de botões 'Médio' no app
 
 #EXTINF:-1 tvg-id="bp9" tvg-name="Rede UTV Brasil" tvg-logo="https://i.postimg.cc/cHDQddGC/rede-utvbrasil.png" group-title="TV Aberta",Rede UTV Brasil
@@ -146,7 +146,7 @@ https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="bp156" tvg-name="Comedy Central WebTV" tvg-logo="https://i.postimg.cc/7ZHB90cg/comedy-centralwebtv.jpg" group-title="Variedades",Comedy Central WebTV
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="bp158" tvg-name="TV Cruzeiro do Brasil" tvg-logo="https://i.postimg.cc/02RwkYfs/tv-cruzeirobrasil.png" group-title="Variedades",TV Cruzeiro do Brasil
-https://painel.redetcb.com.br/api/hls/tvcb2f2cb25f/index.m3u8
+https://tcbnacional.redetcb.com.br/api/hls/tvcb2f2cb25f/index.m3u8
 #EXTINF:-1 tvg-id="bp160" tvg-name="Ldnews" tvg-logo="https://i.postimg.cc/RCGBNrKc/ld-news-logo.jpg" group-title="Variedades",Ldnews
 https://stmv3.voxtvhd.com.br/leandroenzo/leandroenzo/playlist.m3u8
 #EXTINF:-1 tvg-id="bp162" tvg-name="TV 131 Virtual" tvg-logo="https://i.postimg.cc/Kv3hQ01S/tv-131-virtual.jpg" group-title="Variedades",TV 131 Virtual
@@ -167,8 +167,6 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1527962150.m3u8
 https://ikki.hubcloud.tv.br/OnTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bp44" tvg-name="TV+ News" tvg-logo="https://i.postimg.cc/t47nvJ2j/tvmais_news.jpg" group-title="Recomendados",TV+ News
 https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
-#EXTINF:-1 tvg-id="bp49" tvg-name="TV Grande Natal" tvg-logo="https://i.postimg.cc/zGdkPV39/tv-grande-natal.jpg" group-title="Recomendados",TV Grande Natal
-https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
 #EXTINF:-1 tvg-id="bp51" tvg-name="BS TV Online" tvg-logo="https://i.postimg.cc/7Pgs1zSX/bstv-novalogo-03.jpg" group-title="Recomendados",BS TV Online
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1 tvg-id="bp55" tvg-name="TV da Cidade Joinville" tvg-logo="https://i.postimg.cc/q7j5bqbB/tv-cidade-joinville.jpg" group-title="Recomendados",TV da Cidade Joinville
@@ -219,8 +217,6 @@ https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
 https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/playlist.m3u8
 #EXTINF:-1 tvg-id="bp124" tvg-name="IJUÍ PLAY" tvg-logo="https://i.postimg.cc/kMKq946F/ijuiplaytv.jpg" group-title="Recomendados",IJUÍ PLAY
 https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8
-#EXTINF:-1 tvg-id="bp125" tvg-name="CazéTV" tvg-logo="https://i.postimg.cc/JnTJzqd5/cazetv.jpg" group-title="Recomendados",CazéTV
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="bp127" tvg-name="TV Astral" tvg-logo="https://i.postimg.cc/6q74Y2BB/astral-tv.jpg" group-title="Recomendados",TV Astral
 https://isaocorp.cloudecast.com/astraltv/index.m3u8
 #EXTINF:-1 tvg-id="bp128" tvg-name="TV Com" tvg-logo="https://i.postimg.cc/vZDMM775/tvcom.png" group-title="Recomendados",TV Com
@@ -235,20 +231,8 @@ https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
 https://stmv1.voxtvhd.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 tvg-id="bp147" tvg-name="RS PLAY" tvg-logo="https://i.postimg.cc/dtf9QmD7/rs-play.png" group-title="Recomendados",RS PLAY
 https://video05.logicahost.com.br/rsnews/rsnews/playlist.m3u8
-#EXTINF:-1 tvg-id="bp148" tvg-name="RS SPORTS" tvg-logo="https://i.postimg.cc/Ghfj3J9t/rs-sport01.png" group-title="Recomendados",RS SPORTS
-https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
-#EXTINF:-1 tvg-id="bp149" tvg-name="RS SPORTS 2" tvg-logo="https://i.postimg.cc/jd1hqQCL/rs-sport02.png" group-title="Recomendados",RS SPORTS 2
-https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8
-#EXTINF:-1 tvg-id="bp150" tvg-name="RS SPORTS 3" tvg-logo="https://i.postimg.cc/28txjF3L/rs-sport03.png" group-title="Recomendados",RS SPORTS 3
-https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
-#EXTINF:-1 tvg-id="bp151" tvg-name="RS SPORTS 4" tvg-logo="https://i.postimg.cc/dtf9QmDy/rs-sport04.png" group-title="Recomendados",RS SPORTS 4
-https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
-#EXTINF:-1 tvg-id="bp152" tvg-name="RS SPORTS 5" tvg-logo="https://i.postimg.cc/c4zc1M6Y/rs-sport05.png" group-title="Recomendados",RS SPORTS 5
-https://video07.logicahost.com.br/rssports05/rssports05/playlist.m3u8
 #EXTINF:-1 tvg-id="bp153" tvg-name="RS TV" tvg-logo="https://i.postimg.cc/SNPGQ7jC/rs-tv.png" group-title="Recomendados",RS TV
 https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
-#EXTINF:-1 tvg-id="bp155" tvg-name="K Pop TV Play" tvg-logo="https://kpoptv.htforum.net/wp-content/uploads/2024/11/logokpoptvplay.png" group-title="Recomendados",K Pop TV Play
-https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 #EXTINF:-1 tvg-id="bp164" tvg-name="Viva a Vida TV" tvg-logo="https://i.postimg.cc/L8dKWjPX/viva-vida-tv.png" group-title="Recomendados",Viva a Vida TV
 https://stmv1.srvif.com/vivavida/vivavida/playlist.m3u8
 #EXTINF:-1 tvg-id="bp168" tvg-name="Coletiva TV" tvg-logo="https://i.postimg.cc/VkLNrGYr/coletiva-tv.png" group-title="Recomendados",Coletiva TV
@@ -295,3 +279,19 @@ https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="bp81" tvg-name="TV Maná Brasil" tvg-logo="https://i.postimg.cc/2yH2B4bJ/tv_mana_brasil.jpg" group-title="Internacional",TV Maná Brasil
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bp49" tvg-name="TV Grande Natal" tvg-logo="https://i.postimg.cc/zGdkPV39/tv-grande-natal.jpg" group-title="Música",TV Grande Natal
+https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
+#EXTINF:-1 tvg-id="bp125" tvg-name="CazéTV" tvg-logo="https://i.postimg.cc/JnTJzqd5/cazetv.jpg" group-title="Esportes",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="bp148" tvg-name="RS SPORTS" tvg-logo="https://i.postimg.cc/Ghfj3J9t/rs-sport01.png" group-title="Esportes",RS SPORTS
+https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
+#EXTINF:-1 tvg-id="bp149" tvg-name="RS SPORTS 2" tvg-logo="https://i.postimg.cc/jd1hqQCL/rs-sport02.png" group-title="Esportes",RS SPORTS 2
+https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8
+#EXTINF:-1 tvg-id="bp150" tvg-name="RS SPORTS 3" tvg-logo="https://i.postimg.cc/28txjF3L/rs-sport03.png" group-title="Esportes",RS SPORTS 3
+https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
+#EXTINF:-1 tvg-id="bp151" tvg-name="RS SPORTS 4" tvg-logo="https://i.postimg.cc/dtf9QmDy/rs-sport04.png" group-title="Esportes",RS SPORTS 4
+https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
+#EXTINF:-1 tvg-id="bp152" tvg-name="RS SPORTS 5" tvg-logo="https://i.postimg.cc/c4zc1M6Y/rs-sport05.png" group-title="Esportes",RS SPORTS 5
+https://video07.logicahost.com.br/rssports05/rssports05/playlist.m3u8
+#EXTINF:-1 tvg-id="bp155" tvg-name="K Pop TV Play" tvg-logo="https://kpoptv.htforum.net/wp-content/uploads/2024/11/logokpoptvplay.png" group-title="Música",K Pop TV Play
+https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
