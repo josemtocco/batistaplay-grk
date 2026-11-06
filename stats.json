@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-05T23:15:30.511602+00:00",
+  "updated_at": "2026-11-06T05:03:54.460242+00:00",
   "source_total": 165,
   "included": 146,
   "removed_this_run": 19,
-  "recovered": 1,
+  "recovered": 0,
   "new": 0,
   "working_now": 144,
   "failing_now": 21
