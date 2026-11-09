@@ -1,7 +1,7 @@
 {
   "6927afc7-d6f3-4029-8b01-770defa23591": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Canal do Usuário",
     "last_error": null,
     "stream_url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
@@ -11,7 +11,7 @@
   },
   "3fe108b6-f51f-4fdf-b054-3339cd8f48cf": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Fox Kids",
     "last_error": null,
     "stream_url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
@@ -21,7 +21,7 @@
   },
   "16052a14-c050-4c59-b49f-adb719649dae": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Já Viu TV",
     "last_error": null,
     "stream_url": "https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8",
@@ -31,7 +31,7 @@
   },
   "446ccbd4-063d-4643-9a27-0a803b7b9691": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Clouding TV",
     "last_error": null,
     "stream_url": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
@@ -41,7 +41,7 @@
   },
   "1d16ee0a-b25a-404b-9728-7b3afa609715": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Sonata TV",
     "last_error": null,
     "stream_url": "https://video04.logicahost.com.br/isonata/isonata/chunklist_w910221052.m3u8",
@@ -51,7 +51,7 @@
   },
   "3664a54f-764e-4d19-9eeb-17778debdf22": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Rede UTV Brasil",
     "last_error": null,
     "stream_url": "https://utvitv.acessaradios.com.br/utvitv/utvitv.stream/chunklist_w1641872797.m3u8",
@@ -61,7 +61,7 @@
   },
   "29dcf00b-22d4-40ed-a2a1-2c6df340cfe0": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Aparecida",
     "last_error": null,
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8",
@@ -71,7 +71,7 @@
   },
   "e5ec57d2-c9ff-42d1-ae37-089fcc7a91d6": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Jovem Pan News",
     "last_error": null,
     "stream_url": "https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8",
@@ -81,7 +81,7 @@
   },
   "d1d3c604-9491-474e-a31d-35dae3b341c1": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Retrô Cartoon",
     "last_error": null,
     "stream_url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1857106462.m3u8",
@@ -91,7 +91,7 @@
   },
   "ff6b1534-eba4-43bd-a8b8-367524fd3f04": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "RunTime",
     "last_error": null,
     "stream_url": "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8",
@@ -101,7 +101,7 @@
   },
   "115d0036-7c99-4aad-9924-5683ce314a94": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Moviesphere Brasil",
     "last_error": null,
     "stream_url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8",
@@ -111,7 +111,7 @@
   },
   "b277ffea-8bf3-42ef-8f8f-22781302b090": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Filmelier TV",
     "last_error": null,
     "stream_url": "https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8",
@@ -120,33 +120,33 @@
     "channel_number": 15
   },
   "9f850d57-ffff-4e9f-af3c-7537c1f71d32": {
-    "fail_count": 0,
+    "fail_count": 1,
     "last_ok": "2026-11-09T04:38:54.148408+00:00",
     "name": "ISTV",
-    "last_error": null,
+    "last_error": "HTTP Error 404: Not Found",
     "stream_url": "https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1732472063.m3u8",
     "category": "Variedades",
     "logo_url": "https://i.postimg.cc/GmZSkzZZ/logo-istv.png",
     "channel_number": 16,
-    "last_fail": "2026-11-08T12:45:31.987837+00:00"
+    "last_fail": "2026-11-09T15:09:29.001307+00:00"
   },
   "650a32d6-6730-46ce-87d2-a2e1ca883759": {
-    "fail_count": 29,
+    "fail_count": 30,
     "last_ok": null,
     "name": "TV Evangelizar",
     "last_error": "HTTP Error 404: Not Found",
-    "last_fail": "2026-11-09T04:38:54.148408+00:00",
+    "last_fail": "2026-11-09T15:09:29.001307+00:00",
     "stream_url": "https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8",
     "category": "Religiosos",
     "logo_url": "https://i.postimg.cc/9fW8VhLV/gln-tv-capa.jpg",
     "channel_number": 17
   },
   "ef248fb8-aebc-45de-b701-198727efdf1f": {
-    "fail_count": 29,
+    "fail_count": 30,
     "last_ok": null,
     "name": "Rede Brasil",
     "last_error": "HTTP Error 403: Forbidden",
-    "last_fail": "2026-11-09T04:38:54.148408+00:00",
+    "last_fail": "2026-11-09T15:09:29.001307+00:00",
     "stream_url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w230245795.m3u8",
     "category": "Recomendados",
     "logo_url": "https://i.postimg.cc/rFzfZmQc/rede-brasil-tv.jpg",
@@ -154,7 +154,7 @@
   },
   "c97d4ee9-64ab-456a-9716-4f9fd3baad9b": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "GeekDot",
     "last_error": null,
     "stream_url": "https://stream.ichibansys.com:3764/hybrid/play.m3u8",
@@ -163,7 +163,7 @@
     "channel_number": 19
   },
   "5dae13db-caa8-400c-be38-24b08a06e794": {
-    "fail_count": 2,
+    "fail_count": 3,
     "last_ok": "2026-11-08T12:45:31.987837+00:00",
     "name": "Cine Clássicos de Cinema",
     "last_error": "<urlopen error [Errno -2] Name or service not known>",
@@ -171,11 +171,11 @@
     "category": "Filmes",
     "logo_url": "https://i.postimg.cc/6QmR9jMS/cine-classicos-do-cinema.png",
     "channel_number": 20,
-    "last_fail": "2026-11-09T04:38:54.148408+00:00"
+    "last_fail": "2026-11-09T15:09:29.001307+00:00"
   },
   "f34fd47c-5b34-4318-b4a4-ca1a057fe2c6": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "AWTV",
     "last_error": null,
     "stream_url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
@@ -185,7 +185,7 @@
   },
   "7e9ae20e-fa24-4ede-af39-f331652626ef": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "SBT News",
     "last_error": null,
     "stream_url": "https://sbtnews.maissbt.com/3.m3u8",
@@ -195,7 +195,7 @@
   },
   "801ecc0e-0f21-4c47-b802-62310b1f4874": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Classique TV",
     "last_error": null,
     "stream_url": " https://stmv1.srvif.com/classique/classique/playlist.m3u8",
@@ -205,7 +205,7 @@
   },
   "952ca584-baf2-4e61-9384-0c0337196c57": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "BRKS TV",
     "last_error": null,
     "stream_url": "https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8",
@@ -215,7 +215,7 @@
   },
   "13adbe15-f8c3-4c53-8874-d065910fc682": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Rede TV",
     "last_error": null,
     "stream_url": "https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1970019486.m3u8",
@@ -225,7 +225,7 @@
   },
   "27233016-393f-4f80-a1bb-b17c48d1d8be": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Kids Mais",
     "last_error": null,
     "stream_url": "https://Stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8",
@@ -235,7 +235,7 @@
   },
   "a7dff787-cb38-4ab6-84c9-294b2672a579": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Record News",
     "last_error": null,
     "stream_url": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
@@ -245,7 +245,7 @@
   },
   "2febd784-0461-43dd-88ef-c286fed7cb40": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Rede Vida",
     "last_error": null,
     "stream_url": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
@@ -255,7 +255,7 @@
   },
   "b24c2787-ea8c-44c1-bd9f-b8491ddf07e5": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Rede Super TV",
     "last_error": null,
     "stream_url": "https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8",
@@ -266,7 +266,7 @@
   },
   "4e986e58-9db4-4be3-9a04-181493b3b872": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Record",
     "last_error": null,
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
@@ -276,7 +276,7 @@
   },
   "a3d0cbec-4cbb-4c8e-b0f5-509b1c34c4da": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Mega One TV",
     "last_error": null,
     "stream_url": "https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8",
@@ -286,7 +286,7 @@
   },
   "8521bcbf-4dc7-4909-95a1-09131f69361e": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Cultura",
     "last_error": null,
     "stream_url": "https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2010912641.m3u8",
@@ -296,11 +296,11 @@
     "last_fail": "2026-11-06T13:44:10.971901+00:00"
   },
   "9187a9a5-7d7b-4ce3-a4a5-53079f95e04f": {
-    "fail_count": 29,
+    "fail_count": 30,
     "last_ok": null,
     "name": "SBT (SP)",
     "last_error": "HTTP Error 404: Not Found",
-    "last_fail": "2026-11-09T04:38:54.148408+00:00",
+    "last_fail": "2026-11-09T15:09:29.001307+00:00",
     "stream_url": "https://media.cdntvms.com.br/sbt_sat/index.m3u8",
     "category": "TV Aberta",
     "logo_url": "https://i.postimg.cc/3RkmXnVb/sbt.png",
@@ -308,7 +308,7 @@
   },
   "3a2d403a-2f01-47bd-91a5-a0ce2b4a979c": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Xtreme TV",
     "last_error": null,
     "stream_url": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
@@ -318,7 +318,7 @@
   },
   "0722fe6c-dbb8-44a8-a88e-be0985ebc981": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "AG TV",
     "last_error": null,
     "stream_url": "https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8?hls_ctx=x105h921",
@@ -328,7 +328,7 @@
   },
   "f35e03ea-0393-49c0-9f2d-818941feedc1": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Mais Brasil",
     "last_error": null,
     "stream_url": " https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8",
@@ -339,7 +339,7 @@
   },
   "6eb03dc0-51f7-43b3-9cc4-c252cd043e87": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Wording TV",
     "last_error": null,
     "stream_url": "https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1527962150.m3u8",
@@ -349,7 +349,7 @@
   },
   "cdb7140e-18c9-4832-a438-8d1429aca462": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Adrenalina Pura TV",
     "last_error": null,
     "stream_url": "https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8",
@@ -359,7 +359,7 @@
   },
   "21b1d6a5-c764-4271-8ac1-54ffd5035fef": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "ON TV",
     "last_error": null,
     "stream_url": "https://ikki.hubcloud.tv.br/OnTV/tracks-v1a1/mono.m3u8",
@@ -368,11 +368,11 @@
     "channel_number": 39
   },
   "5a805f69-6c6b-4aad-80bf-2b7d1366dd52": {
-    "fail_count": 29,
+    "fail_count": 30,
     "last_ok": null,
     "name": "N Sports",
     "last_error": "<urlopen error [Errno -2] Name or service not known>",
-    "last_fail": "2026-11-09T04:38:54.148408+00:00",
+    "last_fail": "2026-11-09T15:09:29.001307+00:00",
     "stream_url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8",
     "category": "Esportes",
     "logo_url": "https://i.postimg.cc/V6znXV4w/nsports.jpg",
@@ -380,7 +380,7 @@
   },
   "66d83622-936a-46f9-8580-0680e05cbc20": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Band",
     "last_error": null,
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
@@ -390,7 +390,7 @@
   },
   "25f4a6f5-b647-481a-9e8c-8a0ec93a1e44": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Gazeta",
     "last_error": null,
     "stream_url": "https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1728739889.m3u8",
@@ -400,7 +400,7 @@
   },
   "dc98df76-2795-46d7-a667-11458255d93c": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Caravana Play",
     "last_error": null,
     "stream_url": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8",
@@ -410,7 +410,7 @@
   },
   "94a40733-bbbf-42ac-8239-90e05e6ac2ef": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV+ News",
     "last_error": null,
     "stream_url": "https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8",
@@ -420,7 +420,7 @@
   },
   "69821227-b61f-4957-92fc-c79730d58e72": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Veja +",
     "last_error": null,
     "stream_url": "https://origin-fast.b-cdn.net/VEJA_PLUS/tracks-v1a1/mono.ts.m3u8?app_id=1&app_name=soplay&user_Id=1078638",
@@ -431,7 +431,7 @@
   },
   "048b1e67-963b-4ab1-91bb-c8ffb6ddfb63": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "VRT Channel",
     "last_error": null,
     "stream_url": "https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8",
@@ -442,7 +442,7 @@
   },
   "88606c17-d3f1-4cec-87ea-6e3b8220dce0": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "CBTV Play",
     "last_error": null,
     "stream_url": "https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8",
@@ -451,11 +451,11 @@
     "channel_number": 47
   },
   "f1013a6c-6a5c-4e0e-b1b7-01f9ccb25a68": {
-    "fail_count": 29,
+    "fail_count": 30,
     "last_ok": null,
     "name": "TES TV",
     "last_error": "HTTP Error 403: Forbidden",
-    "last_fail": "2026-11-09T04:38:54.148408+00:00",
+    "last_fail": "2026-11-09T15:09:29.001307+00:00",
     "stream_url": "https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8",
     "category": "Variedades",
     "logo_url": "https://i.postimg.cc/fWjYNFsd/rede-tes-tv.png",
@@ -463,7 +463,7 @@
   },
   "4393420c-e35e-48ae-9f10-1d7a7a28bc3b": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Grande Natal",
     "last_error": null,
     "stream_url": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
@@ -473,7 +473,7 @@
   },
   "514b0c6b-0ccf-4088-aeb6-3fefcfa66767": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Lucas TV",
     "last_error": null,
     "stream_url": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
@@ -483,7 +483,7 @@
   },
   "6cfb3afe-1881-42a3-b352-606a66e6e59f": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "BS TV Online",
     "last_error": null,
     "stream_url": "https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8",
@@ -493,7 +493,7 @@
   },
   "0f6f970c-e72c-4468-a522-9b0522d45b17": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Globo TV (SP)",
     "last_error": null,
     "stream_url": "https://origin-01.bariguitelecom.com.br/GLOBO_RPC/index.m3u8",
@@ -502,11 +502,11 @@
     "channel_number": 52
   },
   "dfbddef4-cb59-42a9-a7b4-09f119d0f848": {
-    "fail_count": 29,
+    "fail_count": 30,
     "last_ok": null,
     "name": "IBT",
     "last_error": "HTTP Error 404: Not Found",
-    "last_fail": "2026-11-09T04:38:54.148408+00:00",
+    "last_fail": "2026-11-09T15:09:29.001307+00:00",
     "stream_url": "https://stmv1.paineldevideo.com.br/parceriawebtv1/parceriawebtv1/playlist.m3u8",
     "category": "Variedades",
     "logo_url": "https://i.postimg.cc/gcBZ12fV/rede_ibt.jpg",
@@ -514,7 +514,7 @@
   },
   "fda954fe-0e3c-4773-ab29-adc276c9e3ad": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV São Gabriel",
     "last_error": null,
     "last_fail": "2026-11-05T05:04:36.395572+00:00",
@@ -525,7 +525,7 @@
   },
   "f7b753b3-8682-4cd2-b41f-a36c3ac52a48": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV da Cidade Joinville",
     "last_error": null,
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8",
@@ -535,7 +535,7 @@
   },
   "94560f6d-52ab-4588-bf07-d7a3884bf97a": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Channel Network",
     "last_error": null,
     "stream_url": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
@@ -545,7 +545,7 @@
   },
   "f9789106-4712-427b-a71a-80b9e01cdd5c": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Ultra TV",
     "last_error": null,
     "stream_url": "https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8",
@@ -555,7 +555,7 @@
   },
   "c6a355c3-5591-4ff5-89b9-d136506815e2": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Adesso TV",
     "last_error": null,
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
@@ -565,7 +565,7 @@
   },
   "f0010685-43dc-4c16-97e0-30a4ea67dacc": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Nick WebTV",
     "last_error": null,
     "stream_url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
@@ -575,7 +575,7 @@
   },
   "08e1c6ba-3b29-4a2e-8ea9-d5cab1dd9f53": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Montanha",
     "last_error": null,
     "stream_url": "https://stmv1.srvif.com/tvmontana/tvmontana/playlist.m3u8",
@@ -585,7 +585,7 @@
   },
   "3c1b8133-b9af-4b75-8663-8479e5a16a22": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Gringo TV",
     "last_error": null,
     "stream_url": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8",
@@ -595,7 +595,7 @@
   },
   "3d433e3a-23ee-4b1e-8205-d9d6d8c83131": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "MyTime Movie Network",
     "last_error": null,
     "stream_url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
@@ -604,11 +604,11 @@
     "channel_number": 62
   },
   "74a97e5c-bc72-4047-b95c-aa1404e9218b": {
-    "fail_count": 29,
+    "fail_count": 30,
     "last_ok": null,
     "name": "Fama TV",
     "last_error": "HTTP Error 500: Internal Server Error",
-    "last_fail": "2026-11-09T04:38:54.148408+00:00",
+    "last_fail": "2026-11-09T15:09:29.001307+00:00",
     "stream_url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8",
     "category": "Internacional",
     "logo_url": "https://i.postimg.cc/mg6b26n8/tv_fama.jpg",
@@ -616,7 +616,7 @@
   },
   "d84bf860-49ea-446b-b8a9-7253fb21e0bb": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "On FM",
     "last_error": null,
     "stream_url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
@@ -625,7 +625,7 @@
     "channel_number": 64
   },
   "428c9d56-e02a-4cd3-8e73-dd9c2a250f4b": {
-    "fail_count": 2,
+    "fail_count": 3,
     "last_ok": "2026-11-08T12:45:31.987837+00:00",
     "name": "Melodie TV",
     "last_error": "<urlopen error [Errno -2] Name or service not known>",
@@ -633,11 +633,11 @@
     "category": "Internacional",
     "logo_url": "https://i.postimg.cc/g20BQHxg/melody_tv.jpg",
     "channel_number": 65,
-    "last_fail": "2026-11-09T04:38:54.148408+00:00"
+    "last_fail": "2026-11-09T15:09:29.001307+00:00"
   },
   "63cb04bd-2583-482e-b2f4-caebd96dda28": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Muzangala TV",
     "last_error": null,
     "stream_url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8",
@@ -648,7 +648,7 @@
   },
   "9946bb05-c2dc-499b-a173-932a35509e34": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TVG",
     "last_error": null,
     "stream_url": "https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8",
@@ -658,7 +658,7 @@
   },
   "03324fec-18b4-4d44-88f8-ed542e8d790b": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Way TV",
     "last_error": null,
     "stream_url": "https://live.wayone.cloud/waytv/waytv1/playlist.m3u8",
@@ -668,7 +668,7 @@
   },
   "96896211-ea8b-4900-bfd6-ce59d51ca152": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Kuriakus TV",
     "last_error": null,
     "stream_url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
@@ -678,7 +678,7 @@
   },
   "86455f3f-0f3b-4faa-b2d2-795a4f4cb49e": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Kurikos Kids",
     "last_error": null,
     "stream_url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
@@ -688,7 +688,7 @@
   },
   "c8522b58-9efd-4750-8e3e-f52feef990c4": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Kurikos Music",
     "last_error": null,
     "stream_url": "https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8",
@@ -698,7 +698,7 @@
   },
   "c7b57d44-390b-44b4-a65b-e37f1dc53c3f": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Kurikos Cine",
     "last_error": null,
     "stream_url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
@@ -708,7 +708,7 @@
   },
   "eb836dab-5522-4109-a84e-98c767834e31": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "KK TV",
     "last_error": null,
     "stream_url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
@@ -718,7 +718,7 @@
   },
   "cb64741e-7891-43cc-a08d-4a7517030ebf": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Euro News",
     "last_error": null,
     "stream_url": "https://598c4b93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8",
@@ -728,7 +728,7 @@
   },
   "2f8638b0-6eef-40ab-b274-b83f047a8d82": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Zimbo",
     "last_error": null,
     "stream_url": "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8",
@@ -738,7 +738,7 @@
   },
   "5ca2c17b-648b-46ee-a555-73f0b11950d5": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Maná 1",
     "last_error": null,
     "stream_url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w461217886_b413000_sleng.m3u8",
@@ -748,7 +748,7 @@
   },
   "c1b3735a-0fa9-4cd1-913d-9cb12152a5d3": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Maná 2",
     "last_error": null,
     "stream_url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
@@ -758,7 +758,7 @@
   },
   "17a2616c-8cff-48c8-b48f-22d4dc0166c0": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Maná Argentina",
     "last_error": null,
     "stream_url": "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8",
@@ -768,7 +768,7 @@
   },
   "b39963cf-05ad-4aa4-85a2-9972823588c0": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Maná Inglês",
     "last_error": null,
     "stream_url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8",
@@ -778,7 +778,7 @@
   },
   "fbf7bde3-de07-428d-b2a7-7cc925267d88": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Moçambique",
     "last_error": null,
     "stream_url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8",
@@ -788,7 +788,7 @@
   },
   "42d6fd3f-ca16-4272-87c1-9baab763f8e1": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Maná Brasil",
     "last_error": null,
     "stream_url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
@@ -798,7 +798,7 @@
   },
   "57be8c79-4350-41e1-a059-17cfe47a6ab0": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "RFP tv",
     "last_error": null,
     "stream_url": "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8",
@@ -808,7 +808,7 @@
   },
   "5a89f70d-20cc-4338-81f2-a236c0c247f5": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TVBC",
     "last_error": null,
     "stream_url": "https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8",
@@ -818,7 +818,7 @@
   },
   "694ea749-ee90-446c-ad00-742256c77c74": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Ministério Infantil TV",
     "last_error": null,
     "stream_url": "https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8",
@@ -829,7 +829,7 @@
   },
   "8babd689-b588-48b4-9725-5e092f32ad9f": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Brasil Sinop",
     "last_error": null,
     "stream_url": "https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8",
@@ -838,11 +838,11 @@
     "channel_number": 85
   },
   "86a0d5ea-8062-4bdb-b217-f51d3cefc95b": {
-    "fail_count": 29,
+    "fail_count": 30,
     "last_ok": null,
     "name": "Uni TV",
     "last_error": "<urlopen error [Errno -2] Name or service not known>",
-    "last_fail": "2026-11-09T04:38:54.148408+00:00",
+    "last_fail": "2026-11-09T15:09:29.001307+00:00",
     "stream_url": "https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8",
     "category": "Recomendados",
     "logo_url": "https://i.postimg.cc/FKf27hq2/uni-tv.jpg",
@@ -850,7 +850,7 @@
   },
   "defcbd01-3017-44ad-94d8-e3b43272a3c4": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Mais Um",
     "last_error": null,
     "stream_url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
@@ -860,18 +860,18 @@
     "last_fail": "2026-11-02T14:44:29.143138+00:00"
   },
   "d3982c36-2eda-4102-bb52-9ee92f6d6526": {
-    "fail_count": 29,
+    "fail_count": 30,
     "last_ok": null,
     "name": "Rabelo",
     "last_error": "HTTP Error 404: Not Found",
-    "last_fail": "2026-11-09T04:38:54.148408+00:00",
+    "last_fail": "2026-11-09T15:09:29.001307+00:00",
     "stream_url": "https://s1.tvr.ovh/video10934/video10934/playlist.m3u8",
     "category": "Religiosos",
     "logo_url": "https://i.postimg.cc/kgRYS85n/tv-rabelo.jpg",
     "channel_number": 88
   },
   "98c3db29-cec2-45e4-932c-2747185d2e54": {
-    "fail_count": 1,
+    "fail_count": 2,
     "last_ok": "2026-11-08T21:40:04.485685+00:00",
     "name": "TV Singular",
     "last_error": "HTTP Error 404: Not Found",
@@ -879,11 +879,11 @@
     "category": "Recomendados",
     "logo_url": "https://i.postimg.cc/d1wFkDws/novalogo-logo-tv-singular.png",
     "channel_number": 89,
-    "last_fail": "2026-11-09T04:38:54.148408+00:00"
+    "last_fail": "2026-11-09T15:09:29.001307+00:00"
   },
   "7521941a-7484-4549-8d3e-f30d38836cc5": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Latina Sat",
     "last_error": null,
     "stream_url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8",
@@ -893,7 +893,7 @@
   },
   "38523712-00aa-4360-92a5-88a99ea5d54a": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Carioca Internacional",
     "last_error": null,
     "stream_url": "https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8",
@@ -902,10 +902,10 @@
     "channel_number": 91
   },
   "b0cb83f2-9f4e-4191-b447-baa538f3a995": {
-    "fail_count": 2,
-    "last_ok": "2026-11-08T12:45:31.987837+00:00",
+    "fail_count": 0,
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Aracati",
-    "last_error": "HTTP Error 404: Not Found",
+    "last_error": null,
     "stream_url": "https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1923731983.m3u8",
     "category": "Recomendados",
     "logo_url": "https://i.postimg.cc/90ZKy7ky/tv_aracati.jpg",
@@ -914,7 +914,7 @@
   },
   "4424910c-60bc-48f3-a37b-c067919dadb8": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Rio Preto",
     "last_error": null,
     "stream_url": "https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8",
@@ -925,7 +925,7 @@
   },
   "a15de904-331c-410d-9cae-e1b2a864429f": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV ACRÍTICA",
     "last_error": null,
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
@@ -935,7 +935,7 @@
   },
   "4b4b1fea-2eb7-4b5c-a90e-c718f4ebd0d4": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Gazeta Brasil",
     "last_error": null,
     "stream_url": "https://painel.redegazetabrasil.com.br/hls/canal1/index.m3u8",
@@ -945,7 +945,7 @@
   },
   "b2514f4d-5211-4dea-a106-8870f7f72d11": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV MON HD",
     "last_error": null,
     "stream_url": "https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8",
@@ -955,7 +955,7 @@
   },
   "8b1b1bca-aa83-484d-974a-341c239a6e8d": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Notícias Agrícolas",
     "last_error": null,
     "stream_url": "https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8",
@@ -965,7 +965,7 @@
   },
   "a5b41269-b785-44a3-b67a-9711d5cc49b4": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Club",
     "last_error": null,
     "stream_url": "https://isaocorp.cloudecast.com/recon/index.m3u8 ",
@@ -975,7 +975,7 @@
   },
   "bce9dd6f-c6e6-4c95-96a0-3f46f7da35f0": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Rede Vivax TV",
     "last_error": null,
     "stream_url": "https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8",
@@ -985,7 +985,7 @@
   },
   "4dc6a94c-20d4-4827-a452-834f23d0f02a": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV História",
     "last_error": null,
     "stream_url": "https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8",
@@ -994,11 +994,11 @@
     "channel_number": 100
   },
   "7ecc4f4d-c61b-406c-a1d6-140da13caefb": {
-    "fail_count": 29,
+    "fail_count": 30,
     "last_ok": null,
     "name": "Rede Metrópole de Televisão",
     "last_error": "HTTP Error 404: Not Found",
-    "last_fail": "2026-11-09T04:38:54.148408+00:00",
+    "last_fail": "2026-11-09T15:09:29.001307+00:00",
     "stream_url": "https://isaocorp.cloudecast.com/metropole/index.m3u8",
     "category": "Recomendados",
     "logo_url": "https://i.postimg.cc/R03PLpW8/rede-metropolis.png",
@@ -1006,7 +1006,7 @@
   },
   "dcfa96c5-0068-4e0d-9a35-16f27a204e54": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Gramado TV",
     "last_error": null,
     "stream_url": "https://video11.logicahost.com.br/gramadotv/gramadotv/playlist.m3u8",
@@ -1015,11 +1015,11 @@
     "channel_number": 102
   },
   "64ab5960-d541-4159-ae92-c8f2443d507b": {
-    "fail_count": 29,
+    "fail_count": 30,
     "last_ok": null,
     "name": "BS TV",
     "last_error": "<urlopen error [Errno 111] Connection refused>",
-    "last_fail": "2026-11-09T04:38:54.148408+00:00",
+    "last_fail": "2026-11-09T15:09:29.001307+00:00",
     "stream_url": "https://br5093.streamingdevideo.com.br:8081/bstv/bstv/playlist.m3u8",
     "category": "Variedades",
     "logo_url": "https://i.postimg.cc/2S9cvNSK/bs-tv.png",
@@ -1027,7 +1027,7 @@
   },
   "fe646f7f-f935-4daa-b898-50ae2b4d30e2": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Canal Séries Classic",
     "last_error": null,
     "stream_url": "https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8",
@@ -1037,7 +1037,7 @@
   },
   "417071e5-c05a-4247-bbfe-fb1b7caf706c": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Max 90",
     "last_error": null,
     "stream_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8",
@@ -1047,7 +1047,7 @@
   },
   "1717673b-11c1-4113-90f5-a80b90b10625": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Brasil",
     "last_error": null,
     "stream_url": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
@@ -1057,7 +1057,7 @@
   },
   "8bc999d9-aa16-4ba7-9cfe-15e70b9f7777": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Tudo",
     "last_error": null,
     "stream_url": "https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8",
@@ -1067,7 +1067,7 @@
   },
   "64a47995-7b5d-4657-95ce-001a402dee98": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Life América",
     "last_error": null,
     "stream_url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
@@ -1077,7 +1077,7 @@
   },
   "8cdfe775-f1bc-4585-be9d-3014d744b94a": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Cine Catástrofe",
     "last_error": null,
     "stream_url": "https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8",
@@ -1087,7 +1087,7 @@
   },
   "e1a40acb-a9d7-43af-a862-5b658c6eaa3e": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Cidade",
     "last_error": null,
     "stream_url": "https://video10.logicahost.com.br/cidadefarroupilha/cidadefarroupilha/playlist.m3u8",
@@ -1097,7 +1097,7 @@
   },
   "dd5a971e-cec4-4c52-aa28-02e341925781": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Cidade- Afiliada à TV Gazeta",
     "last_error": null,
     "stream_url": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
@@ -1107,7 +1107,7 @@
   },
   "e27ee290-254b-4249-a23a-97f0370b2cb9": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Lamore Rock Show",
     "last_error": null,
     "stream_url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8",
@@ -1117,7 +1117,7 @@
   },
   "e5c5e4db-4377-4923-8ed6-d6b5539adb04": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV 100% Caipira",
     "last_error": null,
     "stream_url": "https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8",
@@ -1127,7 +1127,7 @@
   },
   "84d79a7d-0463-4251-8ac4-b7af6a3d5bfa": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Cultural HD",
     "last_error": null,
     "stream_url": "https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8",
@@ -1136,11 +1136,11 @@
     "channel_number": 114
   },
   "ef279cee-892f-401c-b224-26f05e4d8735": {
-    "fail_count": 29,
+    "fail_count": 30,
     "last_ok": null,
     "name": "IPP TV",
     "last_error": "<urlopen error [Errno -2] Name or service not known>",
-    "last_fail": "2026-11-09T04:38:54.148408+00:00",
+    "last_fail": "2026-11-09T15:09:29.001307+00:00",
     "stream_url": "https://tv.ippmais.com.br/live/26092358420999225499.m3u8",
     "category": "Religiosos",
     "logo_url": "https://i.postimg.cc/mrWx6hXb/rede-ipptvp-logo.jpg",
@@ -1148,7 +1148,7 @@
   },
   "c4d78411-bfd4-4eff-a546-fc1dbc06017d": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Canal Infantil",
     "last_error": null,
     "stream_url": "https://stmv1.voxtvhd.com.br/canalinfantil/canalinfantil/playlist.m3u8",
@@ -1157,11 +1157,11 @@
     "channel_number": 116
   },
   "ebda25d8-6033-47ff-a4cf-bb7eaa5c917f": {
-    "fail_count": 29,
+    "fail_count": 30,
     "last_ok": null,
     "name": "Nickonline",
     "last_error": "HTTP 218",
-    "last_fail": "2026-11-09T04:38:54.148408+00:00",
+    "last_fail": "2026-11-09T15:09:29.001307+00:00",
     "stream_url": "https://x1colegal.com/hls/stream.m3u8",
     "category": "Infantis",
     "logo_url": "https://i.postimg.cc/BQcPnGB4/nick-online.jpg",
@@ -1169,7 +1169,7 @@
   },
   "04fa9fa6-dd9c-4779-b9f8-22523a7ee626": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Comedy Club",
     "last_error": null,
     "stream_url": "https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8",
@@ -1179,7 +1179,7 @@
   },
   "50131d26-4dd1-429f-b191-dd4f383e677f": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Os Detetives",
     "last_error": null,
     "stream_url": "https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8",
@@ -1189,7 +1189,7 @@
   },
   "19fa2952-f25c-404d-92fc-f8f078dca050": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "BDC TV",
     "last_error": null,
     "stream_url": "https://video01.brascast.com/bdctv/bdctv/playlist.m3u8",
@@ -1199,7 +1199,7 @@
   },
   "94cd8a35-5123-42f2-b3f5-32cbd3656d78": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Rede Maischeti",
     "last_error": null,
     "stream_url": "https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8",
@@ -1209,7 +1209,7 @@
   },
   "0c0ac637-bf04-49fb-82c5-0cd6b01401bf": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Gazin",
     "last_error": null,
     "stream_url": "https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8",
@@ -1219,7 +1219,7 @@
   },
   "af7fbb41-fb7e-48f4-b570-7faa8eab9ab5": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV OLHO D’ÁGUA",
     "last_error": null,
     "stream_url": "https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/playlist.m3u8",
@@ -1230,7 +1230,7 @@
   },
   "6370b276-58a7-4698-8d41-c88858748cc0": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "IJUÍ PLAY",
     "last_error": null,
     "stream_url": "https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8",
@@ -1240,7 +1240,7 @@
   },
   "2501e57a-58cd-4d42-b116-52adfb0848db": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "CazéTV",
     "last_error": null,
     "stream_url": "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8",
@@ -1250,7 +1250,7 @@
   },
   "677072bb-a8be-4375-85ac-9797abba4712": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Brasil Angola",
     "last_error": null,
     "stream_url": "https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8",
@@ -1260,7 +1260,7 @@
   },
   "740b612a-f45e-41a2-ba28-8c272e5e7daa": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Astral",
     "last_error": null,
     "stream_url": "https://isaocorp.cloudecast.com/astraltv/index.m3u8",
@@ -1270,7 +1270,7 @@
   },
   "65c69d25-e6d1-4262-955a-fa088a85ab63": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Com",
     "last_error": null,
     "stream_url": "https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8",
@@ -1279,18 +1279,18 @@
     "channel_number": 128
   },
   "b9c928a6-1bad-41a9-8ece-28c1565bb786": {
-    "fail_count": 29,
+    "fail_count": 30,
     "last_ok": null,
     "name": "Rede Mariana",
     "last_error": "HTTP Error 404: Not Found",
-    "last_fail": "2026-11-09T04:38:54.148408+00:00",
+    "last_fail": "2026-11-09T15:09:29.001307+00:00",
     "stream_url": "https://stmv2.srvif.com/redemariana/redemariana/playlist.m3u8",
     "category": "Religiosos",
     "logo_url": "https://i.postimg.cc/Ghhn6JZG/rede-mariana.jpg",
     "channel_number": 129
   },
   "606e2128-bd45-4f2a-a307-7d5f78dea91c": {
-    "fail_count": 25,
+    "fail_count": 26,
     "last_ok": "2026-10-31T16:48:18.638985+00:00",
     "name": "Rede Cidade",
     "last_error": "HTTP Error 404: Not Found",
@@ -1298,11 +1298,11 @@
     "category": "Variedades",
     "logo_url": "https://i.postimg.cc/L5HBzBL4/rede-cidade.jpg",
     "channel_number": 130,
-    "last_fail": "2026-11-09T04:38:54.148408+00:00"
+    "last_fail": "2026-11-09T15:09:29.001307+00:00"
   },
   "54a4d1cd-c2c7-42c4-a1e6-07683a263a11": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Canaã News TV",
     "last_error": null,
     "stream_url": "https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8",
@@ -1313,7 +1313,7 @@
   },
   "77640c0f-36c3-43ba-bb88-d21228ee381e": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Rede Maranhão",
     "last_error": null,
     "stream_url": "https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8",
@@ -1322,18 +1322,18 @@
     "channel_number": 132
   },
   "dc7ef9db-73cc-401c-8524-6ec0dfbecae1": {
-    "fail_count": 29,
+    "fail_count": 30,
     "last_ok": null,
     "name": "ESTV",
     "last_error": "HTTP Error 403: Forbidden",
-    "last_fail": "2026-11-09T04:38:54.148408+00:00",
+    "last_fail": "2026-11-09T15:09:29.001307+00:00",
     "stream_url": "https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8",
     "category": "Variedades",
     "logo_url": "https://i.postimg.cc/nhPBDrTF/estv-logo.jpg",
     "channel_number": 133
   },
   "13a1eba8-7728-4bd6-8cd3-fcac118fdf2d": {
-    "fail_count": 4,
+    "fail_count": 5,
     "last_ok": "2026-11-07T21:26:40.818918+00:00",
     "name": "TV Conecta",
     "last_error": "<urlopen error [Errno 101] Network is unreachable>",
@@ -1341,11 +1341,11 @@
     "category": "Recomendados",
     "logo_url": "https://i.postimg.cc/bYWc1jjz/tv-conecta.png",
     "channel_number": 134,
-    "last_fail": "2026-11-09T04:38:54.148408+00:00"
+    "last_fail": "2026-11-09T15:09:29.001307+00:00"
   },
   "ef0bae06-3d51-4633-a870-5f5ad8f47639": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "RBTI+TV",
     "last_error": null,
     "stream_url": "https://tv.rbti.tv.br/rbti1/index.m3u8",
@@ -1355,7 +1355,7 @@
   },
   "811cadd8-7f8e-412e-81e7-4fba85eac3fe": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "RBTI Movies",
     "last_error": null,
     "stream_url": "https://tv.rbti.tv.br/rbti2/index.m3u8",
@@ -1365,7 +1365,7 @@
   },
   "c4262838-2718-4ac9-826d-f69bb4270220": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TUBACAST TV+",
     "last_error": null,
     "stream_url": "https://tv.rbti.tv.br/rbti4/index.m3u8",
@@ -1375,7 +1375,7 @@
   },
   "b8d8e30f-a16e-4865-adf7-8c1321196407": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TVNA filmes",
     "last_error": null,
     "stream_url": "https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8",
@@ -1385,7 +1385,7 @@
   },
   "f5d7bd25-4da4-4b04-af5c-7eddfb3f9669": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV GALINHA CHOCA",
     "last_error": null,
     "stream_url": "https://stmv4.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8",
@@ -1395,7 +1395,7 @@
   },
   "14cf6458-f760-436a-b604-72bfa7838907": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Tv NND",
     "last_error": null,
     "stream_url": "https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8",
@@ -1405,7 +1405,7 @@
   },
   "1907ed1d-433d-4646-8f37-a16bf19a1d8b": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Tv Litoral Leste",
     "last_error": null,
     "stream_url": "https://stmv1.voxtvhd.com.br/tvaracati/tvaracati/playlist.m3u8",
@@ -1415,7 +1415,7 @@
   },
   "a6437345-38c7-4288-a6fb-2089be748ef2": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Avivando Nações",
     "last_error": null,
     "stream_url": "https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8",
@@ -1425,7 +1425,7 @@
   },
   "07df9d0c-6c37-4c0b-9645-aeb04a521563": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Araruna TV",
     "last_error": null,
     "stream_url": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8",
@@ -1435,7 +1435,7 @@
   },
   "53a3fd3b-2fca-4695-9eca-db226f43a310": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "NBX TV",
     "last_error": null,
     "stream_url": "https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8",
@@ -1445,7 +1445,7 @@
   },
   "ec5e1a51-4afe-4021-be1d-134fb92c8e1e": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "NBX Pipoca",
     "last_error": null,
     "stream_url": "https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8",
@@ -1455,7 +1455,7 @@
   },
   "09e84f39-53c9-4f47-833c-7ca14f3ab1c3": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "NBX Kids",
     "last_error": null,
     "stream_url": "https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8",
@@ -1465,7 +1465,7 @@
   },
   "09e2b899-db6b-4e47-afdc-9f3430c53b17": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "RS PLAY",
     "last_error": null,
     "stream_url": "https://video05.logicahost.com.br/rsnews/rsnews/playlist.m3u8",
@@ -1475,7 +1475,7 @@
   },
   "d8cb5327-25d5-44c0-b7a3-45f7ae1577f1": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "RS SPORTS",
     "last_error": null,
     "stream_url": "https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8",
@@ -1485,7 +1485,7 @@
   },
   "206bc396-d78a-4313-bb18-a8f94aa1e836": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "RS SPORTS 2",
     "last_error": null,
     "stream_url": "https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8",
@@ -1495,7 +1495,7 @@
   },
   "4472f468-fc2c-45b7-8f39-1f23fbf5e009": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "RS SPORTS 3",
     "last_error": null,
     "stream_url": "https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8",
@@ -1505,7 +1505,7 @@
   },
   "913c176f-0464-4bcd-b4a9-0f76cade19f5": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "RS SPORTS 4",
     "last_error": null,
     "stream_url": "https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8",
@@ -1515,7 +1515,7 @@
   },
   "4129f081-874e-4ebe-bb30-0e4026013466": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "RS SPORTS 5",
     "last_error": null,
     "stream_url": "https://video07.logicahost.com.br/rssports05/rssports05/playlist.m3u8",
@@ -1525,7 +1525,7 @@
   },
   "7b96e90e-f930-4ed3-ae56-ec2539aa4269": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "RS TV",
     "last_error": null,
     "stream_url": "https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8",
@@ -1535,7 +1535,7 @@
   },
   "0db95c76-0cb6-412f-8aee-ac66809aa4af": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "RS News",
     "last_error": null,
     "stream_url": "https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8",
@@ -1544,7 +1544,7 @@
     "channel_number": 154
   },
   "826c6057-58e9-435d-b2eb-c5b43453f082": {
-    "fail_count": 2,
+    "fail_count": 3,
     "last_ok": "2026-11-08T12:45:31.987837+00:00",
     "name": "K Pop TV Play",
     "last_error": "<urlopen error [Errno -2] Name or service not known>",
@@ -1552,11 +1552,11 @@
     "category": "Música",
     "logo_url": "https://kpoptv.htforum.net/wp-content/uploads/2024/11/logokpoptvplay.png",
     "channel_number": 155,
-    "last_fail": "2026-11-09T04:38:54.148408+00:00"
+    "last_fail": "2026-11-09T15:09:29.001307+00:00"
   },
   "b77b02b8-9a41-4a5d-8a8a-63d9b68c49b0": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Comedy Central WebTV",
     "last_error": null,
     "stream_url": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8",
@@ -1566,7 +1566,7 @@
   },
   "013314a3-dddb-4559-8437-5e1908c9a5cf": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Nova MT",
     "last_error": null,
     "stream_url": "https://video04.logicahost.com.br/tvnovaweb/tvnovaweb/playlist.m3u8",
@@ -1575,7 +1575,7 @@
     "channel_number": 157
   },
   "d203f2c6-94e1-456d-b009-e58ebfb7a353": {
-    "fail_count": 2,
+    "fail_count": 3,
     "last_ok": "2026-11-08T12:45:31.987837+00:00",
     "name": "TV Cruzeiro do Brasil",
     "last_error": "HTTP Error 404: Not Found",
@@ -1583,10 +1583,10 @@
     "category": "Variedades",
     "logo_url": "https://i.postimg.cc/02RwkYfs/tv-cruzeirobrasil.png",
     "channel_number": 158,
-    "last_fail": "2026-11-09T04:38:54.148408+00:00"
+    "last_fail": "2026-11-09T15:09:29.001307+00:00"
   },
   "5f2315d8-902f-4264-a2fc-527bed169489": {
-    "fail_count": 17,
+    "fail_count": 18,
     "last_ok": "2026-11-03T13:38:22.169158+00:00",
     "name": "Atrios TV",
     "last_error": "HTTP Error 403: Forbidden",
@@ -1594,11 +1594,11 @@
     "category": "Religiosos",
     "logo_url": "https://i.postimg.cc/FsnJX10C/atrios-tv-logo.jpg",
     "channel_number": 159,
-    "last_fail": "2026-11-09T04:38:54.148408+00:00"
+    "last_fail": "2026-11-09T15:09:29.001307+00:00"
   },
   "c11fa143-38cf-48c4-bb2c-450360168440": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Ldnews",
     "last_error": null,
     "stream_url": "https://stmv3.voxtvhd.com.br/leandroenzo/leandroenzo/playlist.m3u8",
@@ -1608,7 +1608,7 @@
   },
   "eea146dd-b597-4a4a-a1ac-1a08742cb516": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Otaku Sign",
     "last_error": null,
     "stream_url": "https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8",
@@ -1617,7 +1617,7 @@
     "channel_number": 161
   },
   "ff15dcf8-8a02-4cf3-8f0d-6e5a5217bd2d": {
-    "fail_count": 12,
+    "fail_count": 13,
     "last_ok": "2026-11-05T05:04:36.395572+00:00",
     "name": "TV 131 Virtual",
     "last_error": "HTTP Error 404: Not Found",
@@ -1625,11 +1625,11 @@
     "category": "Variedades",
     "logo_url": "https://i.postimg.cc/Kv3hQ01S/tv-131-virtual.jpg",
     "channel_number": 162,
-    "last_fail": "2026-11-09T04:38:54.148408+00:00"
+    "last_fail": "2026-11-09T15:09:29.001307+00:00"
   },
   "da7c8d69-26e6-4c95-a5f2-d4ad2cf826d3": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "TV Adorando Jesus",
     "last_error": null,
     "stream_url": "https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8",
@@ -1639,7 +1639,7 @@
   },
   "c3b03a37-9b76-4f36-915c-d9d127029a9c": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Viva a Vida TV",
     "last_error": null,
     "stream_url": "https://stmv1.srvif.com/vivavida/vivavida/playlist.m3u8",
@@ -1649,7 +1649,7 @@
   },
   "d4017908-f89b-4254-a4f6-076b2a58b0f3": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Rede Classic",
     "last_error": null,
     "stream_url": "https://srv2.zcast.com.br/redenovelas/redenovelas/playlist.m3u8",
@@ -1658,18 +1658,18 @@
     "channel_number": 165
   },
   "190a0dc7-43aa-4648-b41c-51359a37c097": {
-    "fail_count": 29,
+    "fail_count": 30,
     "last_ok": null,
     "name": "TV Novelas",
     "last_error": "HTTP Error 403: Forbidden",
-    "last_fail": "2026-11-09T04:38:54.148408+00:00",
+    "last_fail": "2026-11-09T15:09:29.001307+00:00",
     "stream_url": "https://stmv8.samcast.com.br/lucas7869/lucas7869/playlist.m3u8",
     "category": "Variedades",
     "logo_url": "https://i.postimg.cc/T16pj5WG/tv-novelas.png",
     "channel_number": 166
   },
   "19949cd4-2e09-46c5-a346-6ff6fccc89a2": {
-    "fail_count": 6,
+    "fail_count": 7,
     "last_ok": "2026-11-07T04:37:44.536561+00:00",
     "name": "L A TV",
     "last_error": "<urlopen error [Errno -2] Name or service not known>",
@@ -1677,11 +1677,11 @@
     "category": "Infantis",
     "logo_url": "https://i.postimg.cc/8csPjsdJ/la-tv-nova-logo.jpg",
     "channel_number": 167,
-    "last_fail": "2026-11-09T04:38:54.148408+00:00"
+    "last_fail": "2026-11-09T15:09:29.001307+00:00"
   },
   "041906a4-b2ec-460b-ba64-600f0657f723": {
     "fail_count": 0,
-    "last_ok": "2026-11-09T04:38:54.148408+00:00",
+    "last_ok": "2026-11-09T15:09:29.001307+00:00",
     "name": "Coletiva TV",
     "last_error": null,
     "stream_url": "https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8",
