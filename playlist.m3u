@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist gerada automaticamente a partir de batistaplay.net
-# Atualizado: 2026-11-10 14:19:46 UTC
+# Atualizado: 2026-11-10 22:49:55 UTC
 # Otimizada para SS IPTV - use tamanho de botões 'Médio' no app
 
 #EXTINF:-1 tvg-id="bp9" tvg-name="Rede UTV Brasil" tvg-logo="https://i.postimg.cc/cHDQddGC/rede-utvbrasil.png" group-title="TV Aberta",Rede UTV Brasil
@@ -39,8 +39,6 @@ https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
 #EXTINF:-1 tvg-id="bp15" tvg-name="Filmelier TV" tvg-logo="https://i.postimg.cc/0jf73RwY/filmeliertv.jpg" group-title="Filmes",Filmelier TV
 https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="bp20" tvg-name="Cine Clássicos de Cinema" tvg-logo="https://i.postimg.cc/6QmR9jMS/cine-classicos-do-cinema.png" group-title="Filmes",Cine Clássicos de Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="bp23" tvg-name="Classique TV" tvg-logo="https://i.postimg.cc/vTFQRjWc/classique-tv.jpg" group-title="Filmes",Classique TV
  https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="bp31" tvg-name="Mega One TV" tvg-logo="https://i.postimg.cc/N020CmLD/mega-one-tv.jpg" group-title="Filmes",Mega One TV
@@ -241,8 +239,6 @@ https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bp64" tvg-name="On FM" tvg-logo="https://i.postimg.cc/BnwqQwzm/on_fm.jpg" group-title="Internacional",On FM
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="bp65" tvg-name="Melodie TV" tvg-logo="https://i.postimg.cc/g20BQHxg/melody_tv.jpg" group-title="Internacional",Melodie TV
-https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="bp66" tvg-name="Muzangala TV" tvg-logo="https://i.postimg.cc/PJ628mpV/muzangala_tv.jpg" group-title="Internacional",Muzangala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 tvg-id="bp67" tvg-name="TVG" tvg-logo="https://i.postimg.cc/44SHK77w/television.jpg" group-title="Internacional",TVG
@@ -289,5 +285,3 @@ https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
 https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
 #EXTINF:-1 tvg-id="bp152" tvg-name="RS SPORTS 5" tvg-logo="https://i.postimg.cc/c4zc1M6Y/rs-sport05.png" group-title="Esportes",RS SPORTS 5
 https://video07.logicahost.com.br/rssports05/rssports05/playlist.m3u8
-#EXTINF:-1 tvg-id="bp155" tvg-name="K Pop TV Play" tvg-logo="https://kpoptv.htforum.net/wp-content/uploads/2024/11/logokpoptvplay.png" group-title="Música",K Pop TV Play
-https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
