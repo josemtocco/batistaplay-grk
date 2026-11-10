@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist gerada automaticamente a partir de batistaplay.net
-# Atualizado: 2026-11-09 15:09:29 UTC
+# Atualizado: 2026-11-10 01:10:43 UTC
 # Otimizada para SS IPTV - use tamanho de botões 'Médio' no app
 
 #EXTINF:-1 tvg-id="bp9" tvg-name="Rede UTV Brasil" tvg-logo="https://i.postimg.cc/cHDQddGC/rede-utvbrasil.png" group-title="TV Aberta",Rede UTV Brasil
@@ -146,7 +146,7 @@ https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="bp156" tvg-name="Comedy Central WebTV" tvg-logo="https://i.postimg.cc/7ZHB90cg/comedy-centralwebtv.jpg" group-title="Variedades",Comedy Central WebTV
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="bp158" tvg-name="TV Cruzeiro do Brasil" tvg-logo="https://i.postimg.cc/02RwkYfs/tv-cruzeirobrasil.png" group-title="Variedades",TV Cruzeiro do Brasil
-https://tcbnacional.redetcb.com.br/api/hls/tvcb2f2cb25f/index.m3u8
+https://tcbnacional.redetcb.com.br/api/hls/tvf1f7cbd093/index.m3u8
 #EXTINF:-1 tvg-id="bp160" tvg-name="Ldnews" tvg-logo="https://i.postimg.cc/RCGBNrKc/ld-news-logo.jpg" group-title="Variedades",Ldnews
 https://stmv3.voxtvhd.com.br/leandroenzo/leandroenzo/playlist.m3u8
 #EXTINF:-1 tvg-id="bp165" tvg-name="Rede Classic" tvg-logo="https://i.postimg.cc/gjcYsML8/rede-classic.jpg" group-title="Variedades",Rede Classic
@@ -219,8 +219,6 @@ https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8
 https://isaocorp.cloudecast.com/astraltv/index.m3u8
 #EXTINF:-1 tvg-id="bp128" tvg-name="TV Com" tvg-logo="https://i.postimg.cc/vZDMM775/tvcom.png" group-title="Recomendados",TV Com
 https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
-#EXTINF:-1 tvg-id="bp134" tvg-name="TV Conecta" tvg-logo="https://i.postimg.cc/bYWc1jjz/tv-conecta.png" group-title="Recomendados",TV Conecta
-https://srv1954587.hstgr.cloud:8888/video01/index.m3u8
 #EXTINF:-1 tvg-id="bp135" tvg-name="RBTI+TV" tvg-logo="https://i.postimg.cc/SQ3FcppQ/rbti.png" group-title="Recomendados",RBTI+TV
 https://tv.rbti.tv.br/rbti1/index.m3u8
 #EXTINF:-1 tvg-id="bp140" tvg-name="Tv NND" tvg-logo="https://i.postimg.cc/4d9QKFJX/tv-nnd.png" group-title="Recomendados",Tv NND
