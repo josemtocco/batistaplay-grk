@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist gerada automaticamente a partir de batistaplay.net
-# Atualizado: 2026-11-10 22:49:55 UTC
+# Atualizado: 2026-11-11 04:41:17 UTC
 # Otimizada para SS IPTV - use tamanho de botões 'Médio' no app
 
 #EXTINF:-1 tvg-id="bp9" tvg-name="Rede UTV Brasil" tvg-logo="https://i.postimg.cc/cHDQddGC/rede-utvbrasil.png" group-title="TV Aberta",Rede UTV Brasil
@@ -175,8 +175,6 @@ https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 #EXTINF:-1 tvg-id="bp83" tvg-name="TVBC" tvg-logo="https://rokuimagens.logicahost.com.br/logos/52tvbc.png" group-title="Recomendados",TVBC
 https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8
-#EXTINF:-1 tvg-id="bp89" tvg-name="TV Singular" tvg-logo="https://i.postimg.cc/d1wFkDws/novalogo-logo-tv-singular.png" group-title="Recomendados",TV Singular
- https://stmv3.srvsh.com.br/danielsantos1659/danielsantos1659/chunklist_w1674411964.m3u8
 #EXTINF:-1 tvg-id="bp92" tvg-name="TV Aracati" tvg-logo="https://i.postimg.cc/90ZKy7ky/tv_aracati.jpg" group-title="Recomendados",TV Aracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1923731983.m3u8
 #EXTINF:-1 tvg-id="bp95" tvg-name="Gazeta Brasil" tvg-logo="https://i.postimg.cc/kGYKdhz1/canal-de-testes.jpg" group-title="Recomendados",Gazeta Brasil
