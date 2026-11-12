@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist gerada automaticamente a partir de batistaplay.net
-# Atualizado: 2026-11-11 13:32:49 UTC
+# Atualizado: 2026-11-12 00:02:23 UTC
 # Otimizada para SS IPTV - use tamanho de botões 'Médio' no app
 
 #EXTINF:-1 tvg-id="bp9" tvg-name="Rede UTV Brasil" tvg-logo="https://i.postimg.cc/cHDQddGC/rede-utvbrasil.png" group-title="TV Aberta",Rede UTV Brasil
@@ -90,7 +90,7 @@ https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="bp8" tvg-name="Sonata TV" tvg-logo="https://i.postimg.cc/bNK96RZH/tvsonata.png" group-title="Variedades",Sonata TV
 https://video04.logicahost.com.br/isonata/isonata/chunklist_w910221052.m3u8
 #EXTINF:-1 tvg-id="bp16" tvg-name="ISTV" tvg-logo="https://i.postimg.cc/GmZSkzZZ/logo-istv.png" group-title="Variedades",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1732472063.m3u8
+https://video10.logicahost.com.br/redeistv/redeistv/main_stream.m3u8
 #EXTINF:-1 tvg-id="bp21" tvg-name="AWTV" tvg-logo="https://i.postimg.cc/9XdkfK7s/awtv-logo.jpg" group-title="Variedades",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="bp36" tvg-name="TV Mais Brasil" tvg-logo="https://i.postimg.cc/9XYT6hfP/tvmaisbrasil.jpg" group-title="Variedades",TV Mais Brasil
@@ -144,11 +144,11 @@ https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="bp156" tvg-name="Comedy Central WebTV" tvg-logo="https://i.postimg.cc/7ZHB90cg/comedy-centralwebtv.jpg" group-title="Variedades",Comedy Central WebTV
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="bp158" tvg-name="TV Cruzeiro do Brasil" tvg-logo="https://i.postimg.cc/02RwkYfs/tv-cruzeirobrasil.png" group-title="Variedades",TV Cruzeiro do Brasil
-https://tcbnacional.redetcb.com.br/api/hls/tvf1f7cbd093/index.m3u8
+https://tcbnacional.redetcb.com.br/api/hls/tv384bf02dac/index.m3u8
 #EXTINF:-1 tvg-id="bp160" tvg-name="Ldnews" tvg-logo="https://i.postimg.cc/RCGBNrKc/ld-news-logo.jpg" group-title="Variedades",Ldnews
 https://stmv3.voxtvhd.com.br/leandroenzo/leandroenzo/playlist.m3u8
 #EXTINF:-1 tvg-id="bp165" tvg-name="Rede Classic" tvg-logo="https://i.postimg.cc/gjcYsML8/rede-classic.jpg" group-title="Variedades",Rede Classic
-https://srv2.zcast.com.br/redenovelas/redenovelas/playlist.m3u8
+https://stmv7.voxtvhd.com.br/fabio4925/fabio4925/playlist.m3u8
 #EXTINF:-1 tvg-id="bp19" tvg-name="GeekDot" tvg-logo="https://i.postimg.cc/T1xygSJ5/geekdot.jpg" group-title="Recomendados",GeekDot
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="bp24" tvg-name="BRKS TV" tvg-logo="https://i.postimg.cc/qv3Ftr9t/brks-tv.jpg" group-title="Recomendados",BRKS TV
