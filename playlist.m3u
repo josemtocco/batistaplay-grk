@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist gerada automaticamente a partir de batistaplay.net
-# Atualizado: 2026-11-16 04:43:42 UTC
+# Atualizado: 2026-11-16 14:46:37 UTC
 # Otimizada para SS IPTV - use tamanho de botões 'Médio' no app
 
 #EXTINF:-1 tvg-id="bp9" tvg-name="Rede UTV Brasil" tvg-logo="https://i.postimg.cc/cHDQddGC/rede-utvbrasil.png" group-title="TV Aberta",Rede UTV Brasil
@@ -191,8 +191,6 @@ https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
 https://video11.logicahost.com.br/gramadotv/gramadotv/playlist.m3u8
 #EXTINF:-1 tvg-id="bp105" tvg-name="TV Max 90" tvg-logo="https://i.postimg.cc/CKZvsrR6/tv-max.png" group-title="Recomendados",TV Max 90
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="bp107" tvg-name="TV Tudo" tvg-logo="https://i.postimg.cc/bJ8ZhTGZ/tv-tudo.jpg" group-title="Recomendados",TV Tudo
-https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
 #EXTINF:-1 tvg-id="bp108" tvg-name="TV Life América" tvg-logo="https://i.postimg.cc/bwVCbfwL/tv-life-america.png" group-title="Recomendados",TV Life América
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-id="bp110" tvg-name="TV Cidade" tvg-logo="https://i.postimg.cc/Y0hqrm8X/tv-cidade.png" group-title="Recomendados",TV Cidade
